@@ -14,22 +14,22 @@
         {
           "id": 1,
           "name": "Классический бургер",
-          "price": 45,
-          "image": "https://i.ibb.co/example/burger1.jpg",
+          "price": 46,
+          "image": "https://eda.rambler.ru/images/RecipePhoto/780x780/klassicheskiy-burger_114799_photo_146693.webp",
           "desc": "Говядина, сыр чеддер, салат айсберг, помидор, соус"
         },
         {
           "id": 2,
           "name": "Чизбургер",
-          "price": 50,
-          "image": "https://i.ibb.co/example/burger2.jpg",
+          "price": 51,
+          "image": "https://brandfood.net/wp-content/uploads/2021/08/amerikanskij-burger-1.jpeg",
           "desc": "Двойной сыр чеддер, говядина, лук, маринованный огурец"
         },
         {
           "id": 3,
           "name": "Чикен Бургер",
           "price": 40,
-          "image": "https://i.ibb.co/example/burger3.jpg",
+          "image": "https://nakormim.by/image/cache/data/burger/Chiken%20chiz-460x460.jpg",
           "desc": "Хрустящая курица, салат коул слоу, соус барбекю"
         }
       ]
@@ -40,16 +40,16 @@
       "items": [
         {
           "id": 4,
-          "name": "Кола",
-          "price": 12,
-          "image": "https://i.ibb.co/example/cola.jpg",
+          "name": "RC Cola Ж/Б",
+          "price": 10,
+          "image": "https://pressa.tj/wp-content/uploads/2023/04/img_20230415_130206_668.jpg",
           "desc": "0.5 л"
         },
         {
           "id": 5,
           "name": "Лимонад",
           "price": 15,
-          "image": "https://i.ibb.co/example/lemonade.jpg",
+          "image": "https://petrovka-horeca.com.ua/images/ab__webp/blog/24/limonade_jpg.webp",
           "desc": "Домашний, 0.4 л"
         }
       ]
