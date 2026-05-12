@@ -1,0 +1,58 @@
+{
+  "restaurant": {
+    "name": "Burger House",
+    "logo": "🍔",
+    "address": "ул. Рудаки 42, Душанбе",
+    "phone": "+992 900 123 456",
+    "hours": "10:00 - 23:00"
+  },
+  "categories": [
+    {
+      "id": "burgers",
+      "name": "Бургеры",
+      "items": [
+        {
+          "id": 1,
+          "name": "Классический бургер",
+          "price": 45,
+          "image": "https://i.ibb.co/example/burger1.jpg",
+          "desc": "Говядина, сыр чеддер, салат айсберг, помидор, соус"
+        },
+        {
+          "id": 2,
+          "name": "Чизбургер",
+          "price": 50,
+          "image": "https://i.ibb.co/example/burger2.jpg",
+          "desc": "Двойной сыр чеддер, говядина, лук, маринованный огурец"
+        },
+        {
+          "id": 3,
+          "name": "Чикен Бургер",
+          "price": 40,
+          "image": "https://i.ibb.co/example/burger3.jpg",
+          "desc": "Хрустящая курица, салат коул слоу, соус барбекю"
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": "Напитки",
+      "items": [
+        {
+          "id": 4,
+          "name": "Кола",
+          "price": 12,
+          "image": "https://i.ibb.co/example/cola.jpg",
+          "desc": "0.5 л"
+        },
+        {
+          "id": 5,
+          "name": "Лимонад",
+          "price": 15,
+          "image": "https://i.ibb.co/example/lemonade.jpg",
+          "desc": "Домашний, 0.4 л"
+        }
+      ]
+    }
+  ]
+}
