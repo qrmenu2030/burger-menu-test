@@ -1,3 +1,5 @@
+'use client'
+
 export default function MenuCard({ item }) {
   return (
     <div className="bg-gray-800 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-[1.02] border border-gray-700">
